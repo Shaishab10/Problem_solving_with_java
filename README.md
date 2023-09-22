@@ -2,18 +2,18 @@
 ### <div align=center>This repository contains some java problem solutions.</div>
 
 
-## Tools & Technology used:
+### Tools & Technology used:
 - IntelliJ IDEA
 
-## Pre-Requisites
+### Pre-Requisites
 - jdk
 
-## How to run this project:
+### How to run this project:
 - Clone this project
 - Open this project with Intellij IDEA or other java programming software.
 
 
-## Java Problem Question
+### Java Problem Question
 
 1. Suppose, a=10 and b=20. Now swap the value without a temp variable. Output: a=20, b=10
 2. Here is the 10 students CGPA [3.50, 3.52, 3.43, 3.63, 3.48, 3.32, 3.30, 3.60, 3.86, 3.75]
